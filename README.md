@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tiewminghui@gmail.com**
 
-- ⚡ Fun fact **I love Shin Chan!**
+- ⚡ Fun fact **I love Shin Chan & LEGO!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
