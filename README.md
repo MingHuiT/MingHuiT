@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ming Hui</h1>
-<h3 align="center">Computer Science student</h3>
+<h3 align="center">Computer Science freshie!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minghuit&label=Profile%20views&color=0e75b6&style=flat" alt="minghuit" /> </p>
 
-- 🌱 I’m currently learning **Web development and 3d designing**
+- 🌱 I’m currently learning **DevOps** and something random
 
 - 📫 How to reach me **tiewminghui@gmail.com**
 
-- ⚡ Fun fact **I love Shin Chan & LEGO!**
+- ⚡ Fun fact **I love LEGO!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
